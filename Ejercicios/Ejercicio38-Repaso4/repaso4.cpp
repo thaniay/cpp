@@ -2,6 +2,7 @@
 
 using namespace std;
 
+
 int main(int argc, char const *argv[])
 {
     system("cls");
@@ -83,13 +84,12 @@ int main(int argc, char const *argv[])
 
     // cout << aprobo;
 
-    int a = 5;
+      int a = 5;
     int b = 10;
 
     if (a == 5 || b == 7) {
         cout << "a o b, es verdadero";
     }
-    
 
     return 0;
 }
