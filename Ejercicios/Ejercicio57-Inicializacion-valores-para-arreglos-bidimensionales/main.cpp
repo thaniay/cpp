@@ -15,6 +15,7 @@ int main(int argc, char const *argv[])
     // nombres[2][0]= "Pedro";
     // nombres[2][1]= "Jimenez";
 
+
     int filas = 4;
     int columnas = 2;
 
